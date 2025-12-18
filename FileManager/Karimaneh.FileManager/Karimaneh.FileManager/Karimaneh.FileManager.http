@@ -1,0 +1,6 @@
+@Karimaneh.FileManager_HostAddress = http://localhost:5010
+
+GET {{Karimaneh.FileManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

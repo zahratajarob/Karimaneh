@@ -1,0 +1,6 @@
+@Karimaneh.Authentication_HostAddress = http://localhost:5298
+
+GET {{Karimaneh.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
