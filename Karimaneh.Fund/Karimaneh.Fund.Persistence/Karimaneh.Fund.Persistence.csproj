@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Karimaneh.Fund.Application\Karimaneh.Fund.Application.csproj" />
+    <ProjectReference Include="..\Karimaneh.Fund.Common\Karimaneh.Fund.Common.csproj" />
+    <ProjectReference Include="..\Karimaneh.Fund.Domain\Karimaneh.Fund.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

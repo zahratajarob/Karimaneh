@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Karimaneh.Authentication.Common\Karimaneh.Authentication.Common.csproj" />
+    <ProjectReference Include="..\Karimaneh.Notification.Common\Karimaneh.Notification.Common.csproj" />
   </ItemGroup>
 
 </Project>

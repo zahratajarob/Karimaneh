@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Karimaneh.Fund.Application/Karimaneh.Fund.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Karimaneh.Fund.Domain/Karimaneh.Fund.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Karimaneh.Fund.Persistence/Karimaneh.Fund.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Karimaneh.Fund/Karimaneh.Fund.csproj" />
+  </Folder>
+  <Project Path="Karimaneh.Fund.Common/Karimaneh.Fund.Common.csproj" />
+</Solution>

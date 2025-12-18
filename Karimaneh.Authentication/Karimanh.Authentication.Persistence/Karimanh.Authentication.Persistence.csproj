@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Karimaneh.Authentication.Application\Karimaneh.Authentication.Application.csproj" />
+    <ProjectReference Include="..\Karimaneh.Authentication.Common\Karimaneh.Authentication.Common.csproj" />
+    <ProjectReference Include="..\Karimanh.Authentication.Domain\Karimanh.Authentication.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

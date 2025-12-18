@@ -1,3 +1,15 @@
 <Solution>
-  <Project Path="Karimaneh.Authentication/Karimaneh.Authentication.csproj" />
+  <Folder Name="/Application/">
+    <Project Path="Karimaneh.Authentication.Application/Karimaneh.Authentication.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Karimanh.Authentication.Domain/Karimanh.Authentication.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Karimanh.Authentication.Persistence/Karimanh.Authentication.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Karimaneh.Authentication/Karimaneh.Authentication.csproj" />
+  </Folder>
+  <Project Path="Karimaneh.Authentication.Common/Karimaneh.Authentication.Common.csproj" />
 </Solution>

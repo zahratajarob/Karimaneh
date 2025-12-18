@@ -1,0 +1,6 @@
+@Karimaneh.Notification_HostAddress = http://localhost:5298
+
+GET {{Karimaneh.Notification_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

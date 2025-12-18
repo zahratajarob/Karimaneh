@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Application/">
+    <Project Path="Karimaneh.Notification.Application/Karimaneh.Notification.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="Karimaneh.Notification.Domain/Karimaneh.Notification.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Karimaneh.Notification.Persistence/Karimaneh.Notification.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="Karimaneh.Notification/Karimaneh.Notification.csproj" />
+  </Folder>
+  <Project Path="Karimaneh.Notification.Common/Karimaneh.Notification.Common.csproj" />
+</Solution>

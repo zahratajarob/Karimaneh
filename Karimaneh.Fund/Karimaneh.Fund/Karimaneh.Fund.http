@@ -1,0 +1,6 @@
+@Karimaneh.Fund_HostAddress = http://localhost:5275
+
+GET {{Karimaneh.Fund_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

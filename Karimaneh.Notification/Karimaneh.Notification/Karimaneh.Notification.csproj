@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Karimaneh.Authentication.Application\Karimaneh.Authentication.Application.csproj" />
-    <ProjectReference Include="..\Karimaneh.Authentication.Common\Karimaneh.Authentication.Common.csproj" />
-    <ProjectReference Include="..\Karimanh.Authentication.Persistence\Karimanh.Authentication.Persistence.csproj" />
+    <ProjectReference Include="..\Karimaneh.Notification.Application\Karimaneh.Notification.Application.csproj" />
+    <ProjectReference Include="..\Karimaneh.Notification.Common\Karimaneh.Notification.Common.csproj" />
+    <ProjectReference Include="..\Karimaneh.Notification.Persistence\Karimaneh.Notification.Persistence.csproj" />
   </ItemGroup>
 
 </Project>
